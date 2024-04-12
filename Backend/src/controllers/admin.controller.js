@@ -125,7 +125,7 @@ const addCompany = async (req, res) => {
     );
     
 };
-
+// this is  an export object to be imported in the routes
 export {
     createFAQ,
     registerStudent,
